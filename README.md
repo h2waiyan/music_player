@@ -1,4 +1,4 @@
-# video_player
+# music_player
 
 A new Flutter project.
 
